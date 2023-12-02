@@ -9,6 +9,7 @@ Microcontroller clocking settings based on STM32F411 Discovery kit:
 ![Microcontroller clocking settings](https://github.com/chocolateicecreamlover/stm32-lab-1-sliding-dot/assets/152575505/d319d007-1db1-4fe0-bbb2-8470ec8fafd9)
 
 Assignment of microcontroller pins:
+
 ![Microcontroller pins setting](https://github.com/chocolateicecreamlover/stm32-lab-1-sliding-dot/assets/152575505/a56bd8fb-ec7c-416c-9a6f-5bf83088bbcc)
 
 Gyroscope L3GD20:
