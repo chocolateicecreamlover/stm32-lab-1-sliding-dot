@@ -27,7 +27,8 @@ LED matrix:
 The matrix works on the principle of dynamic indication and turns on one of four groups of LEDs in turn - only LEDs of a particular group can be on at a time. The data about the switched on LEDs are transferred to the shift registers of the matrix (choosed by pins A, B). The matrix has pins for receiving information via SPI in slave mode. Also the connector of the matrix has a pin to enable the matrix operation and a pin to update the data in the shift registers. The matrix is powered externally.
 The algorithm for working with the matrix is described in the [article](https://habr.com/ru/articles/372215/) (in russian).
 
-Matrix connector 
+Matrix connector
+
 ![Matrix connector](https://github.com/chocolateicecreamlover/stm32-lab-1-sliding-dot/assets/152575505/bd10701a-7488-44a5-a4c0-702cde287a92)
 
 ## How to use
